@@ -1,0 +1,12 @@
+HTML
+    CH 2
+This section about text is coming at a good time for me. Identifying what all the H's mean as well as the shortcuts for the like breaks and and spacing. Some of the elements, like <stong> and <em> make me wonder if its better to leave this stuff to css but maybe i dont know enough to determine which would be better for text formatting. Either way its good to know where all the semantic information is for later reference. 
+    CH 10
+Ahh here we go, introducing CSS. This is good, creating rules that control the way that each individual box is presented. This is where you control fonts and colors, styles as well as linking to web URL's. I'm sure I'll refernce the selector page in the future, as I read it but im not sure if I can remember all that. Declarations are made of two part, the elements you want to change and the value of the properties.
+
+JAVASCRIPT
+    CH 2
+This is getting to the JS basics like statements and comments. Comments are good for organizing your thoughts ahead of time and they are easy to idenfitfy because they are green. Variables are very important and the name is appropriate because they are able to change. They have a keyword, name, and then you assign it a value using =. You can store numbers and strings in variables. Then it talks about rules and naming rules for variables. Next we talk about arrays, creating accessing and changing them. We also briefly touch on booleans and expressions and how they rely on operators. 
+    CH 4
+Decisions and loops are completely new to me but I followed the flowcharts and hopefully it'll make mroe sense in practice. But it says there are 2 types of components to a statement, an expression (which returns a value) and a statement which tells it what to do. Comparison operators are easy and make sense, greater than, equals and so forth. But having a reference to the logical operators is handy. It also goes into the concepts of Truthy and Falsey values. 
+Then we get into loops which check a condition. if its true then we are gooo to go, but if its false then it keeps repeating until FOR WHILE or DO WHILE is returned. Then it goes into the uses of FOR, WHILE, and DO WHILE. the difference in while and do while is the code block come before the condition. 
